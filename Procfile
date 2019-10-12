@@ -1,1 +1,1 @@
-Worker: node niksbot.js
+worker: node niksbot.js
