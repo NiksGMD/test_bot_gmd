@@ -493,4 +493,4 @@ function helpCommand(arguments, receivedMessage) {
  }
 
 
-client.login("NTcyMzQ5MTMyMTQ1MTY0Mjkx.XaHnEg.uM4jwkJStGcmNCpo78eeIFuwOZc")
+client.login(procces.env.token)
